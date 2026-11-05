@@ -1,0 +1,12 @@
+Order_ID,Product,Category,Quantity,Sales,Profit,Order_Date
+1001,Laptop,Electronics,1.0,55000.0,5000.0,2026-10-01
+1002,Mouse,Accessories,2.0,800.0,200.0,2026-10-02
+1003,Keyboard,Accessories,1.0,1500.0,300.0,2026-10-03
+1004,Monitor,Electronics,1.0,12000.0,1500.0,2026-10-04
+1005,Mouse,Accessories,1.6666666666666667,800.0,200.0,2026-10-05
+1006,Laptop,Electronics,2.0,110000.0,10000.0,2026-10-06
+1007,Headphones,Accessories,1.0,2500.0,500.0,2026-10-07
+1008,Monitor,Electronics,2.0,24290.0,1800.0,2026-10-08
+1009,Keyboard,Accessories,3.0,4500.0,2470.0,2026-10-09
+1010,Laptop,Electronics,1.6666666666666667,55000.0,5000.0,2026-10-10
+1011,Mouse,Accessories,2.0,800.0,200.0,2026-10-11
